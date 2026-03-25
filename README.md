@@ -77,7 +77,7 @@ curl http://localhost:8000/
 ├── 🐍 main.py          # Aplicação principal e endpoints
 ├── 🙈 .gitignore
 ├── 📖 README.md
-└── 📦 requirements.txt    # Dependências
+└── 📦 requirements.txt # Dependências
 
 ```
 
